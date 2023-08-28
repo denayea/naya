@@ -1,4 +1,4 @@
-![this](path/naya/header.svg)
+<img src="naya/header.svg">
 
 <h1> Hello! I'm Naya </h1>
 <p align="center"> Antusias belajar pemrograman sebagai lulusan SMK jurusan Teknik Komputer dan Jaringan. Berkomitmen untuk mengembangkan keterampilan dalam bahasa pemrograman dan teknologi terkini </p>
